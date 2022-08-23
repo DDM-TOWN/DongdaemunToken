@@ -1,2 +1,1 @@
-# DongdaemunToken
-# DongdaemunToken
+# Dongdaemun Token (DDMT)
